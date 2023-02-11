@@ -6,5 +6,5 @@ class test {
     int a = 120;int b=75;
 int c = b-a;
 System.out.print(c);
-    
+    System.out.println("that's okay");
 }}
